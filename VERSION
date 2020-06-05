@@ -1,0 +1,25 @@
+commit 7cb99bee182a06e3202ceaa6bba8e0b2634c1df5
+Author: sun765 <44676379+sun765@users.noreply.github.com>
+Date:   Thu Jun 4 20:07:53 2020 -0400
+
+    Metric (#1242)
+    
+    * before merging path tracing branch
+    
+    * test pr
+    
+    * removed unecessary comments and white spaces
+    
+    * removed unecessary lines
+    
+    * remove wrong comments
+    
+    * refactor analyze function and leave comments and questions on it
+    
+    * remove unessary spaces
+    
+    * remove understood questions
+    
+    * removed all questions
+    
+    * remove uncessary comments
